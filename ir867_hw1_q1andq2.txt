@@ -1,0 +1,23 @@
+# Indra 
+# CS - UY 1114
+# 13 Sept 2018
+# Homework 1
+
+#question 1
+(9>4)
+(4<9)
+(not (9<4))
+((9<4) or (9>4))
+((9//4)==2)
+(2**3==8)
+(not(True and False))
+("oo"+(2*"la")=="oolala")
+
+#question 2
+1. yet_more = 2
+2. hello = "goodbye"
+3. prints "hello"
+4. prints 7
+5. prints "935"
+6. b = 50
+
